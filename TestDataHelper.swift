@@ -1,0 +1,14 @@
+//
+//  BaseTestClass.swift
+//  HomeworkTests
+//
+//  Created by Andy on 2022/9/6.
+//
+
+import Foundation
+
+class TestDataHelper {
+    
+    
+    
+}
